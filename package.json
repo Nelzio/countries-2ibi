@@ -1,8 +1,8 @@
 {
   "name": "ibi2",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
-  "productName": "Places",
+  "description": "This project was created to 2iBi's challenge.",
+  "productName": "Countries",
   "author": "Nelzio <nelziositoe@gmail.com>",
   "private": true,
   "scripts": {
